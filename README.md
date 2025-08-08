@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LodgeQuest– a full-stack travel listing app using Express, MongoDB, and EJS.”**
 
-- 🌱 I’m currently learning **- Exploring full-stack development with React, Node, Express & MongoDB**
+- 🌱 I’m currently learning **- full-stack development with React, Node, Express & MongoDB**
 
 - 📫 How to reach me **andrimohan09@gmail.com**
 
